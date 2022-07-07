@@ -1,0 +1,16 @@
+@media screen and (min-width:576px) {
+    .input-width{
+        width: 50%;
+    }
+    
+}
+
+.red{
+    color: red;
+}
+#googlemap{
+    height: 100%;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
